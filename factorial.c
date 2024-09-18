@@ -33,9 +33,6 @@ int main() {
             printf("CROP IT");
         }
     }
-    else {
-    	printf("Hello");
-	}
     
     
     
